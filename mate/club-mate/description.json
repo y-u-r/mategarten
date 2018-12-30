@@ -1,3 +1,26 @@
 {
-    "name":"Club Mate"
+    "name":"Club Mate",
+    "bottle_size":0.5,
+    "nutrition_per_100g": {
+        "kcal":20.0,
+        "fett":0.0,
+        "fett_gesaettigt":0.0,
+        "kohlenhydrate":5.0,
+        "zucker":5.0,
+        "eiweiss":0.0,
+        "salz":0.0,
+        "koffein":20.0
+    },
+    "bezugsquellen": [
+        "Supermarkt"
+    ],
+    "zutaten" : [
+        "Wasser",
+        "Glucose-Fructose-Sirup",
+        "Zucker",
+        "Getränkegrundstoff (Mate-Tee-Extrakt mit 0,4 g Mate in 100 ml Getränk, Säurungsmittel Zitronensäure, karamellisierter Zuckersirup, Koffein, natürliches Aroma)",
+        "Kohlensäure"
+    ],
+    "website":"https://www.clubmate.de/",
+    "hersteller":"Loscher GmbH & Co KG"
 }

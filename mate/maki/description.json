@@ -1,3 +1,23 @@
 {
-    "name":"Maki"
+    "name":"Maki",
+    "bottle_size":0.5,
+    "nutrition_per_100g": {
+        "kcal":19.0,
+        "fett":0.0,
+        "fett_gesaettigt":0.0,
+        "kohlenhydrate":4.4,
+        "zucker":3.4,
+        "eiweiss":0.2,
+        "salz":0.0,
+        "koffein":6.5
+    },
+    "bezugsquellen": [
+    ],
+    "zutaten" : [
+        "55% Bio-Apfelsaft aus Bio-Apfelsaftkonzentrat",
+        "45% Mate-Aufguss (Wasser, 2% Bio-Mateblätter)",
+        "Kohlensäure"
+    ],
+    "website":"https://www.maki-mate.de",
+    "hersteller":"MAKI GmbH"
 }

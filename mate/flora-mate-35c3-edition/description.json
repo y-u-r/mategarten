@@ -1,3 +1,28 @@
 {
-    "name":"Flora Mate 35C3 Edition"
+    "name":"Flora Power Mate 35C3 Edition",
+    "nutrition_per_100g": {
+        "fett":0.02,
+        "fett_gesaettigt":0.0,
+        "kohlenhydrate":5.3,
+        "zucker":5.0,
+        "eiweiss":0.0,
+        "salz":0.0,
+        "kcal":23.0,
+        "koffein":18.0
+    },
+    "bottle_size": 0.5,
+    "bezugsquellen": [
+    ],
+    "zutaten" : [
+        "Wasser",
+        "Zucker",
+        "Mate-Tee-Extrakt",
+        "natürliches Aroma",
+        "Säurungsmittel: Zitronensäure",
+        "Lebensmittelfarbstoff: Zuckerkulör E 150d",
+        "Koffein",
+        "Kohlensäure"
+    ],
+    "website":"https://www.flora-power.de/",
+    "hersteller":"Reineckes Getränke"
 }
