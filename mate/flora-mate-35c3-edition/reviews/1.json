@@ -1,4 +1,5 @@
 {
-    "stars":4,
-    "text":"blubber"
+    "rating":4.0,
+    "text":"blubber",
+    "author":"Morn"
 }
