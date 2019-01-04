@@ -1,0 +1,30 @@
+{
+    "name":"Mio Mio Mate Ginger",
+    "bottle_size":0.5,
+    "nutrition_per_100g": {
+        "kcal":28,
+        "fett":0.0,
+        "fett_gesaettigt":0.0,
+        "kohlenhydrate":6.4,
+        "zucker":6.4,
+        "eiweiss":0.0,
+        "salz":0.1,
+        "koffein":20.0
+    },
+    "bezugsquellen": [
+    ],
+    "zutaten" : [
+        "Natürliches Mineralwasser",
+        "Zucker",
+        "Kohlensäure",
+        "0.3% Mateblätter-Auszug",
+        "Säurungsmittel Citronensäure",
+        "Ingwerextrakt",
+        "natürliches Aroma",
+        "koffein",
+        "Farbstoff E 150d"
+    ],
+    "website":"https://miomio.com/produkte/",
+    "hersteller":"Vivaris Getränke GmbH & Co. KG",
+    "ean":"4002846034603"
+}
